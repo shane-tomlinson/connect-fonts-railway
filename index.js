@@ -10,7 +10,7 @@ module.exports = {
     "repourl": "https://github.com/shane-tomlinson/connect-fonts-railway",
     "bugsurl": false
   },
-  
+
   // Package author info
   "author": {
     "name": "Shane Tomlinson",
@@ -19,7 +19,7 @@ module.exports = {
     "githubs": "https://github.com/shane-tomlinson,https://github.com/stomlinson",
     "twitter": "@shane_tomlinson"
   },
-  
+
   // package license info
   "license": {
     "name": "SIL Open Font License",
@@ -33,13 +33,16 @@ module.exports = {
   "font_common": {
     "names": "railway",
     "family": "Railway",
-    "copyright": "Copyright (c) Justin Howes. An Unpublished work from Justin Howes., 1994. All rights reserved.\n\nRevised July 2012 (c) Greg Fleming.",
+    "copyright": "Copyright (c) Justin Howes. An Unpublished work from Justin Howes., 1994. All rights reserved. Revised July 2012 (c) Greg Fleming.",
+    "url_vendor": "https://github.com/GregFleming/Railway-Sans",
+    "designer": "Justin Howes",
+    "url_designer": "http://typotech.blogspot.co.uk/2012/08/johnstons-railway-sans-edward-johnstons.html",
     "trademark": "Railway is a trademark of Justin Howes. An Unpublished work from Justin Howes."
   },
 
 
   // where to find a locale's fonts in the fonts directory
-  "locale-to-subdirs": { 
+  "locale-to-subdirs": {
   },
 
   // what font types are enabled and what are the extensions of

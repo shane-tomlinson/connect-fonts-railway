@@ -53,6 +53,9 @@ Railway
 
 Revised July 2012 (c) Greg Fleming.
 * Trademark: Railway is a trademark of Justin Howes. An Unpublished work from Justin Howes.
+* Original font source: https://github.com/GregFleming/Railway-Sans
+* Background information: http://typotech.blogspot.co.uk/2012/08/johnstons-railway-sans-edward-johnstons.html
+
 
 ## Development Info
 * Homepage: https://github.com/shane-tomlinson/connect-fonts-railway
